@@ -6,7 +6,7 @@ Java, Backend Developer
 
 i've been learning to code for the past year, both self-taught and through college, i'm currently studying Systems Engineering in the University of Tolima in Colombia, taking MOOC's such as CS50 and enrolling in several Bootcamps. I excel mostly in Java and i'm eager to learn more about programming.
 colombia.png
-*   🌍  I'm based in Colombia  <img src="colombia.png" alt="Colombian Flag Freepik - Flaticon" width="26" height="25"/>
+*   🌍  I'm based in Colombia  <img src="colombia.png" alt="Colombian Flag Freepik - Flaticon" width="30" height="25"/>
 *   🧠  I'm learning SpringBoot
 *   🤝  I'm open to collaborating on Backend Projects
 
