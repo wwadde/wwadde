@@ -4,9 +4,8 @@ Hi, My name is William Wadde
 Java, Backend Developer
 -----------------------
 
-i've been learning to code for the past year, both self-taught and through college, i'm currently studying Systems Engineering in the University of Tolima in Colombia, taking MOOC's such as CS50 and enrolling in several Bootcamps. I excel mostly in Java and i'm eager to learn more about programming.
+I'm a Systems Engineering student at the University of Tolima, passionate about software development. I have experience in web development with Java and Spring Boot, and I've worked on multiple backend projects. I continuously expand my knowledge through hands-on experience and self-learning. Recently, I've started exploring React to enhance my frontend skills.
 *    🇨🇴  I'm based in Colombia  <img src="colombia.png" alt="Colombian Flag Freepik - Flaticon" width="30" height="28"/>
-*   🧠  I'm learning SpringBoot
 *   🤝  I'm open to collaborating on Backend Projects
 
 ### Skills 
