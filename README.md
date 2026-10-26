@@ -36,17 +36,32 @@ I build backend systems with **Java and Spring Boot**: microservices, secure RES
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" title="Apache Kafka"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>&nbsp;
 </p>
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" title="Angular"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
 </p>
 
 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,prometheus,grafana,git,maven&theme=dark" alt="DevOps and tools"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" title="Nginx"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" title="Prometheus"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" title="Grafana"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>&nbsp;
 </p>
 
 ### Let's connect
