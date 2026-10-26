@@ -1,17 +1,54 @@
-Hi, My name is William Wadde
-=====================================================================================================================================
+<h1 align="center">William Wadde</h1>
 
-Java, Backend Developer
------------------------
+<p align="center">
+  <strong>Backend-focused Software Developer · Java & Spring Boot · Full Stack</strong><br/>
+  Systems Engineering student at Universidad del Tolima · Colombia 🇨🇴
+</p>
 
-I'm a Systems Engineering student at the University of Tolima, passionate about software development. I do mostly web stuff using with Java/Springboot and Typescript/React, I've worked on multiple backend projects if you want to link up say no more
-*    🇨🇴  Colombia  <img src="colombia.png" alt="Colombian Flag Freepik - Flaticon" width="30" height="28"/>
-*   🤝  I'm open to collaborating on Backend Projects
+<p align="center">
+  <a href="https://williamwadde.work"><img src="https://img.shields.io/badge/Portfolio-williamwadde.work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/williamwadde/"><img src="https://img.shields.io/badge/LinkedIn-williamwadde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></p>
-                    
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/wwadde" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/williamwadde/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+### About me
+
+I build backend systems with **Java and Spring Boot**: microservices, secure REST APIs, integrations with external services and relational data models designed to scale. When a project needs it, I also deliver the frontend with **Angular** or server-side templates, so I can own a feature end to end — from the database to deployment.
+
+- 🚀 Shipping production apps used by real businesses
+- 🧩 Interested in distributed systems, event-driven architecture and performance
+- 🤝 Open to backend / full stack roles and collaborations
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Collections Management](https://cobranza.work)** · *in production* | Loan and collections platform with Admin/Collector roles, automatic PDF receipts, real-time dashboards, delinquency tracking, credit restructuring and reporting. | Spring Boot · PostgreSQL · JTE · JasperReports · Docker · Prometheus/Grafana |
+| **[Travel Agency Booking Platform](https://agencia.williamwadde.work)** · *in production* | Tour-package booking with online payments (PayU), user accounts and an admin panel that manages all agency content in real time, built SEO-first. | Spring Boot 4 · Angular 21 · Docker · Nginx · GitHub Actions · AWS EC2 |
+| **[Banking Credit System](https://github.com/wwadde/simulacion-credito-bancario)** | Microservices for clients, accounts and credits with API Gateway, Eureka discovery, load balancing, OAuth2/JWT and Kafka domain events. | Spring Cloud · Kafka · OAuth2 · Feign · Circuit Breaker · Angular |
+| **[Spring MVC vs WebFlux Benchmark](https://github.com/wwadde/rendimiento-springboot-mvc-reactivo)** | Same REST endpoints on Tomcat and Netty to compare latency, concurrency and resource usage with JDBC vs JPA, monitored live. | Java 25 · WebFlux · PostgreSQL · Prometheus · Grafana |
+| **[Transport Route Management](https://github.com/wwadde/trayectos)** | Fleet, driver and route API with Google Maps geocoding, automatic license/document validation, bulk Excel import and scheduled jobs. | Spring Boot · Spring Security · PostgreSQL · Apache POI |
+
+➡️ More details, screenshots and demos at **[williamwadde.work](https://williamwadde.work)**
+
+### Tech stack
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql&theme=dark" alt="Backend"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&theme=dark" alt="Frontend"/>
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,prometheus,grafana,git,maven&theme=dark" alt="DevOps and tools"/>
+</p>
+
+### Let's connect
+
+Have a role, a project or an idea? Reach out on **[LinkedIn](https://www.linkedin.com/in/williamwadde/)** or through the contact form on my **[portfolio](https://williamwadde.work)**.
